@@ -15,6 +15,7 @@
                 <div class="pyro-footer-brand mb-auto wow fadeInUp">
                     <h2 class="pyro-footer-logo">Demo Traders</h2>
                     <p class="pyro-footer-tagline">Illuminating Celebrations Since 1995</p>
+                    <img src="images/logo.png" alt="footer-logo" class="img-fluid pyro-footer-logo-img">
                 </div>
                 <div class="pyro-footer-about wow fadeInUp" data-wow-delay="0.1s">
                     <p>Specializing in premium pyrotechnics for weddings, festivals, and special events across India
@@ -67,31 +68,31 @@
                     <h3 class="pyro-links-title mb-4">Our Range</h3>
                     <ul class="pyro-links-list list-unstyled">
                         <li class="mb-2">
-                            <a href="#" class="pyro-footer-link d-flex align-items-center">
+                            <a href="products.php" class="pyro-footer-link d-flex align-items-center">
                                 <i class="bi bi-chevron-right mr-2 link-icon"></i>
                                 <span>Sparklers</span>
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="pyro-footer-link d-flex align-items-center">
+                            <a href="products.php" class="pyro-footer-link d-flex align-items-center">
                                 <i class="bi bi-chevron-right mr-2 link-icon"></i>
                                 <span>Fountains</span>
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="pyro-footer-link d-flex align-items-center">
+                            <a href="products.php" class="pyro-footer-link d-flex align-items-center">
                                 <i class="bi bi-chevron-right mr-2 link-icon"></i>
                                 <span>Rockets</span>
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="pyro-footer-link d-flex align-items-center">
+                            <a href="products.php" class="pyro-footer-link d-flex align-items-center">
                                 <i class="bi bi-chevron-right mr-2 link-icon"></i>
                                 <span>Cakes & Barrages</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" class="pyro-footer-link d-flex align-items-center">
+                            <a href="products.php" class="pyro-footer-link d-flex align-items-center">
                                 <i class="bi bi-chevron-right mr-2 link-icon"></i>
                                 <span>Special Effects</span>
                             </a>
@@ -121,7 +122,7 @@
                     <div class="pyro-certification">
                         <div class="pyro-badge d-flex align-items-center mb-2 mr-2 d-inline-block">
                             <i class="bi bi-shield-check mr-1"></i>
-                            <span>ISO 9001 Certified</span>
+                            <span>PESO Certified</span>
                         </div>
                         <div class="pyro-badge d-flex align-items-center mb-2 d-inline-block">
                             <i class="bi bi-award-fill mr-1"></i>
@@ -139,8 +140,7 @@
                     <p class="d-flex flex-wrap justify-content-center">
                         <span class="mr-2">&copy; 2025 Demo Traders. All Rights Reserved.</span>
                         <span class="d-none d-md-inline mr-2">|</span>
-                        <span>Designed with <i class="bi bi-heart-fill text-danger mx-1"></i> by <a
-                                href="https://www.srisoftwarez.com" target="_blank"
+                        <span>Designed & Developed with Care By <a href="https://www.srisoftwarez.com" target="_blank"
                                 class="pyro-dev-link d-inline-flex align-items-center">Sri Softwarez</a></span>
                     </p>
                 </div>
@@ -149,8 +149,9 @@
     </div>
 </footer>
 <div class="fixed point w0">
-    <a href="https://api.whatsapp.com/send?phone=919999999999">
-        <img src="images/whatsappicon.png" class="priceicn float-left" alt="" title="">
+    <a
+        href="https://api.whatsapp.com/send?phone=919999999999&text=Hello%20Demo Traders%20!%20I%20want%20to%20know%20more%20about%20your%20products and services.">
+        <img src="images/whatsappicon.png" class="priceicn float-left" alt="" title="Demo Traders">
     </a>
 </div>
 <div class="fixed point1 w0 d-none d-lg-block">

@@ -26,7 +26,6 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/hover-min.css">
-    <link rel="stylesheet" href="css/hover-min.css">
     <link rel="stylesheet" href="css/odometer-theme.css">
     <link rel="stylesheet" href="css/swiper.css">
     <link rel="stylesheet" href="css/style.css">
@@ -43,226 +42,443 @@
     </section>
     <!-- about intro -->
     <!-- Our Story Section -->
-    <section class="about-biography">
+    <section class="about-us-section">
         <div class="container">
-            <div class="row align-items-center">
-                <!-- Text Content -->
-                <div class="col-12 col-md-6 col-lg-6 wow fadeInLeft">
-                    <h1 class="about-biography-title">Our Fireworks Journey</h1>
-                    <p class="about-biography-text">Founded in 2005, Demo Traders began as a small family-run
-                        fireworks stand in the heart of the Sivakasi. What started as a passion project quickly grew
-                        into
-                        one of the region's most trusted fireworks suppliers.</p>
-                    <p class="about-biography-text">Our founder, John Doe, brought decades of pyrotechnic experience
-                        from around the world to create a company that values both spectacular displays and absolute
-                        safety.</p>
-                    <p class="about-biography-text">Today, we serve both retail customers and wholesale clients across
-                        the state, providing premium fireworks for all occasions while maintaining our commitment to
-                        quality and safety.</p>
-                    <button class="btn about-biography-btn">Learn More About Safety</button>
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-12">
+                    <h2 class="section-title wow fadeInDown" data-wow-delay="0.2s">About Our Fireworks Legacy</h2>
+                    <p class="section-subtitle wow fadeInUp" data-wow-delay="0.4s">Creating magical moments through
+                        premium pyrotechnics</p>
+                </div>
+            </div>
+
+            <div class="row align-items-center justify-content-center">
+                <div class="col-12 col-md-6 col-lg-6">
+                    <div class="story-content wow fadeInLeft" data-wow-delay="0.6s">
+                        <div class="story-badge">
+                            <i class="bi bi-award"></i>
+                            <span>Trusted Since 2000</span>
+                        </div>
+                        <h3 class="story-title">Our Journey</h3>
+                        <p class="story-text">
+                            From humble beginnings to becoming the region's premier fireworks distributor, our passion
+                            for creating spectacular celebrations has driven us for over two decades.
+                        </p>
+                        <p class="story-text">
+                            We believe every celebration deserves to be extraordinary, which is why we carefully curate
+                            our collection from the world's finest manufacturers.
+                        </p>
+                        <div class="story-highlights">
+                            <div class="highlight-item">
+                                <i class="bi bi-check-circle-fill"></i>
+                                <span>Licensed & Certified</span>
+                            </div>
+                            <div class="highlight-item">
+                                <i class="bi bi-check-circle-fill"></i>
+                                <span>Quality Guaranteed</span>
+                            </div>
+                            <div class="highlight-item">
+                                <i class="bi bi-check-circle-fill"></i>
+                                <span>Expert Guidance</span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
-                <!-- Image -->
-                <div class="col-12 col-md-6 col-lg-6 wow fadeInRight">
-                    <div class="about-biography-img-container">
-                        <img src="images/about-hero.webp" alt="PyroSpectacular founders"
-                            class="img-fluid about-biography-img rounded">
+                <div class="col-12 col-md-6 col-lg-6">
+                    <div class="vision-card wow fadeInRight" data-wow-delay="0.8s">
+                        <div class="vision-icon">
+                            <i class="bi bi-stars"></i>
+                        </div>
+                        <h4 class="vision-title">Our Vision</h4>
+                        <p class="vision-text">
+                            To illuminate every celebration with safe, spectacular, and unforgettable fireworks
+                            experiences that bring communities together.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 col-md-12 col-lg-12 wow rotate-it" data-wow-delay="1.0s">
+                    <img src="images/about-hero.webp" alt="about-hero" class="img-fluid about-hero-img">
+                </div>
+            </div>
+
+            <div class="row mt-5">
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="service-card wow fadeInUp hvr-grow" data-wow-delay="1.0s">
+                        <div class="service-icon">
+                            <i class="bi bi-shop"></i>
+                        </div>
+                        <h5 class="service-title">Retail Excellence</h5>
+                        <p class="service-description">Premium fireworks for personal celebrations, weddings, and
+                            special occasions.</p>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="service-card wow fadeInUp" data-wow-delay="1.2s">
+                        <div class="service-icon">
+                            <i class="bi bi-building"></i>
+                        </div>
+                        <h5 class="service-title">Wholesale Solutions</h5>
+                        <p class="service-description">Bulk supplies for retailers, event planners, and professional
+                            displays.</p>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="service-card wow fadeInUp" data-wow-delay="1.4s">
+                        <div class="service-icon">
+                            <i class="bi bi-shield-check"></i>
+                        </div>
+                        <h5 class="service-title">Safety Training</h5>
+                        <p class="service-description">Comprehensive safety education and proper handling techniques.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="service-card wow fadeInUp" data-wow-delay="1.6s">
+                        <div class="service-icon">
+                            <i class="bi bi-headset"></i>
+                        </div>
+                        <h5 class="service-title">Expert Consultation</h5>
+                        <p class="service-description">Professional advice for creating the perfect pyrotechnic
+                            experience.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-12">
+                    <div class="commitment-banner wow fadeInUp" data-wow-delay="1.8s">
+                        <div class="commitment-content">
+                            <i class="bi bi-heart-fill commitment-heart"></i>
+                            <h3 class="commitment-title">Our Commitment to You</h3>
+                            <p class="commitment-text">
+                                Every firework we sell carries our promise of quality, safety, and spectacular
+                                performance.
+                                Your celebrations are our passion, and your satisfaction is our success.
+                            </p>
+                            <a href="products.php" class="commitment-cta">
+                                <span>Explore Our Products <i class="bi bi-arrow-right"></i></span>
+
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- second section -->
-    <section class="about-mission">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12 col-md-10 col-lg-8 text-center wow fadeIn">
-                    <h2 class="about-mission-title">Our Guiding Principles</h2>
-                    <p class="about-mission-subtitle">What drives us to light up your celebrations</p>
-                </div>
-            </div>
 
-            <div class="row mt-5">
-                <!-- Value 1 -->
-                <div class="col-12 col-md-4 col-lg-4 mb-4 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="about-mission-card hvr-float">
-                        <div class="about-mission-icon">
-                            <i class="bi bi-shield-check"></i>
-                        </div>
-                        <h3 class="about-mission-card-title">Safety First</h3>
-                        <p class="about-mission-card-text">We prioritize safety in every product we sell and educate our
-                            customers on proper handling.</p>
-                    </div>
-                </div>
 
-                <!-- Value 2 -->
-                <div class="col-12 col-md-4 col-lg-4 mb-4 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="about-mission-card hvr-float">
-                        <div class="about-mission-icon">
-                            <i class="bi bi-stars"></i>
-                        </div>
-                        <h3 class="about-mission-card-title">Quality Explosions</h3>
-                        <p class="about-mission-card-text">Only premium fireworks that deliver consistent, spectacular
-                            performances.</p>
-                    </div>
-                </div>
-
-                <!-- Value 3 -->
-                <div class="col-12 col-md-4 col-lg-4 mb-4 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="about-mission-card hvr-float">
-                        <div class="about-mission-icon">
-                            <i class="bi bi-people"></i>
-                        </div>
-                        <h3 class="about-mission-card-title">Community Focus</h3>
-                        <p class="about-mission-card-text">Supporting local events and charities through donations and
-                            sponsorships.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="brand-swiper py-5">
+    <section class="brands-swiper-section bg-dark text-white">
         <div class="container">
             <div class="row">
-                <div class="col-12 text-center mb-5 wow fadeIn">
-                    <h2 class="brand-swiper-title display-4">Trusted Partners</h2>
-                    <p class="brand-swiper-subtitle lead">The industry's finest choose our fireworks</p>
+                <div class="col-12 col-md-12 col-lg-12">
+                    <h2 class="brands-title wow fadeInDown text-white" data-wow-delay="0.2s">Trusted Brand Partners</h2>
+                    <p class="brands-subtitle wow fadeInUp text-warning" data-wow-delay="0.4s">Working with the world's
+                        leading
+                        fireworks manufacturers in Sivakasi.</p>
                 </div>
             </div>
 
             <div class="row">
-                <div class="col-12 position-relative">
-                    <!-- Custom Swiper Container -->
-                    <div class="brand-swiper-container swiper-container">
+                <div class="col-12 col-md-12 col-lg-12">
+                    <div class="brands-swiper-container wow fadeInUp" data-wow-delay="0.6s">
                         <div class="swiper-wrapper">
-                            <!-- 12 Brand Slides with Enhanced Content -->
-                            <?php for ($i = 1; $i <= 12; $i++): ?>
-                                <div class="swiper-slide brand-slide">
-                                    <div class="brand-slide-inner hvr-grow-shadow">
-                                        <div class="brand-logo-container">
-                                            <img src="images/brand-<?= $i ?>.webp" alt="Brand <?= $i ?>"
-                                                class="brand-logo img-fluid hvr-grayscale-to-color">
-                                        </div>
-                                        <div class="brand-overlay d-flex align-items-center justify-content-center">
-                                            <span class="brand-name">Brand-<?= $i ?></span>
-                                        </div>
+                            <div class="swiper-slide">
+                                <div class="brand-card">
+                                    <div class="brand-logo">
+                                        <img src="images/brand-1.webp" alt="brand 1" class="img-fluid">
+                                    </div>
+                                    <h4 class=" brand-name">Brand-1</h4>
+                                    <p class="brand-description">Premium aerial displays and professional-grade
+                                        fireworks</p>
+                                    <div class="brand-rating">
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
                                     </div>
                                 </div>
-                            <?php endfor; ?>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="brand-card">
+                                    <div class="brand-logo">
+                                        <img src="images/brand-2.webp" alt="brand 1" class="img-fluid">
+                                    </div>
+                                    <h4 class=" brand-name">Brand-2</h4>
+                                    <p class="brand-description">Spectacular ground effects and fountain fireworks
+                                    </p>
+                                    <div class="brand-rating">
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="brand-card">
+                                    <div class="brand-logo">
+                                        <img src="images/brand-3.webp" alt="brand 3" class="img-fluid">
+                                    </div>
+                                    <h4 class=" brand-name">Brand-3</h4>
+                                    <p class="brand-description">Beautiful Roman candles and multi-shot displays</p>
+                                    <div class="brand-rating">
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="brand-card">
+                                    <div class="brand-logo">
+                                        <img src="images/brand-4.webp" alt="brand 4" class="img-fluid">
+                                    </div>
+                                    <h4 class=" brand-name">Brand-4</h4>
+                                    <p class="brand-description">Luxury wedding and celebration fireworks</p>
+                                    <div class="brand-rating">
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="brand-card">
+                                    <div class="brand-logo">
+                                        <img src="images/brand-5.webp" alt="brand 5" class="img-fluid">
+                                    </div>
+                                    <h4 class=" brand-name">Brand-5</h4>
+                                    <p class="brand-description">Colorful sparklers and handheld fireworks</p>
+                                    <div class="brand-rating">
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="brand-card">
+                                    <div class="brand-logo">
+                                        <img src="images/brand-6.webp" alt="brand 6" class="img-fluid">
+                                    </div>
+                                    <h4 class="brand-name">Brand-6</h4>
+                                    <p class="brand-description">High-altitude rockets and aerial shells</p>
+                                    <div class="brand-rating">
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="brand-card">
+                                    <div class="brand-logo">
+                                        <img src="images/brand-7.webp" alt="brand 7" class="img-fluid">
+                                    </div>
+                                    <h4 class="brand-name">Brand-7</h4>
+                                    <p class="brand-description">Traditional Chinese fireworks and celebrations</p>
+                                    <div class="brand-rating">
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="brand-card">
+                                    <div class="brand-logo">
+                                        <img src="images/brand-8.webp" alt="brand 8" class="img-fluid">
+                                    </div>
+                                    <h4 class="brand-name">Brand-8</h4>
+                                    <p class="brand-description">Safe family-friendly fireworks for all occasions
+                                    </p>
+                                    <div class="brand-rating">
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                        <i class="bi bi-star-fill"></i>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
 
-                        <!-- Custom Pagination -->
-                        <div class="brand-swiper-pagination swiper-pagination"></div>
-                    </div>
+                        <div class="swiper-pagination"></div>
 
-                    <!-- Custom Navigation -->
-                    <div class="brand-swiper-nav">
-                        <div class="brand-swiper-button-prev swiper-button-prev hvr-sweep-to-right">
+                        <div class="swiper-button-prev">
                             <i class="bi bi-chevron-left"></i>
                         </div>
-                        <div class="brand-swiper-button-next swiper-button-next hvr-sweep-to-left">
+                        <div class="swiper-button-next">
                             <i class="bi bi-chevron-right"></i>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <section class="about-process">
-        <div class="container">
+
             <div class="row">
-                <div class="col-12 text-center mb-5">
-                    <h3 class="about-process-subheading">Our Craft</h3>
-                    <h2 class="about-process-title">The Art of Pyrotechnics</h2>
-                </div>
-            </div>
-
-            <div class="row align-items-center">
-                <!-- Left Column - Process Steps -->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="about-process-steps">
-                        <!-- Step 1 -->
-                        <div class="about-process-step wow fadeInLeft" data-wow-delay="0.1s">
-                            <div class="about-process-step-number">01</div>
-                            <div class="about-process-step-content">
-                                <h3 class="about-process-step-title">Design</h3>
-                                <p class="about-process-step-text">Creating custom patterns and color combinations</p>
-                            </div>
+                <div class="col-12 col-md-12 col-lg-12">
+                    <div class="brands-footer wow fadeInUp" data-wow-delay="0.8s">
+                        <div class="partnership-badge">
+                            <i class="bi bi-award-fill"></i>
+                            <span>Authorized Distributor</span>
                         </div>
-
-                        <!-- Step 2 -->
-                        <div class="about-process-step wow fadeInLeft" data-wow-delay="0.2s">
-                            <div class="about-process-step-number">02</div>
-                            <div class="about-process-step-content">
-                                <h3 class="about-process-step-title">Engineering</h3>
-                                <p class="about-process-step-text">Precision timing and structural integrity</p>
-                            </div>
-                        </div>
-
-                        <!-- Step 3 -->
-                        <div class="about-process-step wow fadeInLeft" data-wow-delay="0.3s">
-                            <div class="about-process-step-number">03</div>
-                            <div class="about-process-step-content">
-                                <h3 class="about-process-step-title">Testing</h3>
-                                <p class="about-process-step-text">Rigorous quality and safety checks</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Right Column - Visual Showcase -->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="about-process-visual wow fadeInRight">
-                        <div class="about-process-visual-container">
-                            <div class="about-process-visual-item active" data-step="1">
-                                <img src="images/process-design.webp" alt="Firework Design Process" class="img-fluid">
-                            </div>
-                            <div class="about-process-visual-item" data-step="2">
-                                <img src="images/process-engineering.webp" alt="Firework Engineering"
-                                    class="img-fluid w-100">
-                            </div>
-                            <div class="about-process-visual-item" data-step="3">
-                                <img src="images/process-testing.webp" alt="Firework Testing" class="img-fluid">
-                            </div>
-                        </div>
+                        <p class="partnership-text text-white">
+                            We maintain exclusive partnerships with these premium manufacturers,
+                            ensuring authentic products and competitive wholesale pricing.
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <section class="about-cta">
+    <!-- why choose us -->
+    <section class="why-choose-section bg-white py-5">
         <div class="container">
-            <div class="row justify-content-center">
+            <div class="row justify-content-center mb-5">
                 <div class="col-12 col-md-10 col-lg-8 text-center">
-
-                    <!-- Decorative Firework Icon -->
-                    <div class="about-cta-icon mb-4">
-                        <i class="bi bi-stars"></i>
-                    </div>
-
-                    <!-- Heading -->
-                    <h2 class="about-cta-title mb-3">Let's Create Something Explosive</h2>
-
-                    <!-- Subtext -->
-                    <p class="about-cta-text mb-4">
-                        Contact our pyrotechnic experts for custom firework displays tailored to your event
+                    <h2 class="why-choose-title mb-3">Why Choose Our Fireworks</h2>
+                    <div class="why-choose-divider mx-auto"></div>
+                    <p class="why-choose-subtitle mt-4">We light up your celebrations with unmatched quality and service
                     </p>
+                </div>
+            </div>
 
-                    <!-- Action Buttons -->
-                    <div class="about-cta-buttons">
-                        <a href="tel:+1234567890" class="btn about-cta-btn about-cta-btn-primary mr-3">
-                            <i class="bi bi-telephone-fill mr-2"></i> Call Now
-                        </a>
-                        <a href="mailto:contact@yourfireworks.com" class="btn about-cta-btn about-cta-btn-secondary">
-                            <i class="bi bi-envelope-fill mr-2"></i> Email Us
-                        </a>
+            <div class="row no-gutters">
+                <!-- Left Feature - Vertical -->
+                <div class="col-12 col-md-3 col-lg-3">
+                    <div class="why-choose-card why-choose-card-vertical h-100" data-color="color2">
+                        <div class="why-choose-card-inner d-flex flex-column">
+                            <div class="why-choose-icon mb-3">
+                                <i class="bi bi-award"></i>
+                            </div>
+                            <h3 class="why-choose-card-title mb-2">Premium Quality</h3>
+                            <p class="why-choose-card-text mb-3">Industry-leading fireworks with consistent performance
+                            </p>
+                            <div class="why-choose-hover-content flex-grow-1 d-flex align-items-center">
+                                <ul class="list-unstyled mb-0 w-100">
+                                    <li><i class="bi bi-check-circle-fill text-purple"> </i>PESO Certified</li>
+                                    <li><i class="bi bi-check-circle-fill text-purple"> </i>3-stage quality checks</li>
+                                    <li><i class="bi bi-check-circle-fill text-purple"> </i>0.5% defect rate</li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
+                </div>
 
+                <!-- Center Features - Grid -->
+                <div class="col-12 col-md-6 col-lg-6">
+                    <div class="row no-gutters h-100">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <div class="why-choose-card h-100" data-color="color1">
+                                <div class="why-choose-card-inner d-flex flex-column h-100">
+                                    <div class="why-choose-icon mb-3">
+                                        <i class="bi bi-truck"></i>
+                                    </div>
+                                    <h3 class="why-choose-card-title mb-2">Reliable Shipping</h3>
+                                    <p class="why-choose-card-text mb-3">On-time delivery guaranteed</p>
+                                    <div class="why-choose-hover-content flex-grow-1 d-flex align-items-center">
+                                        <p class="mb-0 w-100"><i class="bi bi-check-circle-fill text-purple"> </i>Fully
+                                            licensed hazardous material transporters</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <div class="why-choose-card h-100" data-color="color3">
+                                <div class="why-choose-card-inner d-flex flex-column h-100">
+                                    <div class="why-choose-icon mb-3">
+                                        <i class="bi bi-shield-check"></i>
+                                    </div>
+                                    <h3 class="why-choose-card-title mb-2">Safety First</h3>
+                                    <p class="why-choose-card-text mb-3">100% accident-free record</p>
+                                    <div class="why-choose-hover-content flex-grow-1 d-flex align-items-center">
+                                        <p class="mb-0 w-100"><i class="bi bi-check-circle-fill text-purple">
+                                            </i>ATF-compliant storage facilities</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <div class="why-choose-card h-100" data-color="color4">
+                                <div class="why-choose-card-inner d-flex flex-column h-100">
+                                    <div class="why-choose-icon mb-3">
+                                        <i class="bi bi-currency-dollar"></i>
+                                    </div>
+                                    <h3 class="why-choose-card-title mb-2">Best Value</h3>
+                                    <p class="why-choose-card-text mb-3">Wholesale pricing for all</p>
+                                    <div class="why-choose-hover-content flex-grow-1 d-flex align-items-center">
+                                        <p class="mb-0 w-100"><i class="bi bi-check-circle-fill text-purple"> </i>Price
+                                            match guarantee</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <div class="why-choose-card h-100" data-color="color2">
+                                <div class="why-choose-card-inner d-flex flex-column h-100">
+                                    <div class="why-choose-icon mb-3">
+                                        <i class="bi bi-headset"></i>
+                                    </div>
+                                    <h3 class="why-choose-card-title mb-2">Expert Support</h3>
+                                    <p class="why-choose-card-text mb-3">Pyrotechnicians on staff</p>
+                                    <div class="why-choose-hover-content flex-grow-1 d-flex align-items-center">
+                                        <p class="mb-0 w-100"><i class="bi bi-check-circle-fill text-purple"> </i>24/7
+                                            pre-event support</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Feature - Vertical -->
+                <div class="col-12 col-md-3 col-lg-3">
+                    <div class="why-choose-card why-choose-card-vertical h-100" data-color="color1">
+                        <div class="why-choose-card-inner d-flex flex-column">
+                            <div class="why-choose-icon mb-3">
+                                <i class="bi bi-stars"></i>
+                            </div>
+                            <h3 class="why-choose-card-title mb-2">Exclusive Designs</h3>
+                            <p class="why-choose-card-text mb-3">Unique effects you won't find elsewhere</p>
+                            <div class="why-choose-hover-content flex-grow-1 d-flex align-items-center">
+                                <ul class="list-unstyled mb-0 w-100">
+                                    <li><i class="bi bi-check-circle-fill text-purple"> </i>Custom color combinations
+                                    </li>
+                                    <li><i class="bi bi-check-circle-fill text-purple"> </i>Patented burst patterns</li>
+                                    <li><i class="bi bi-check-circle-fill text-purple"> </i>Limited edition series</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
+
 
     <?php include_once "footer.php"; ?>
 

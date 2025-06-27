@@ -128,7 +128,7 @@
                     <div class="pyro-safety-card pyro-emergency-card wow fadeInUp" data-wow-delay="0.4s">
                         <div class="pyro-card-header">
                             <div class="pyro-card-icon">
-                                <i class="bi bi-ambulance"></i>
+                                <i class="bi bi-truck"></i>
                             </div>
                             <h2>Emergency Protocol</h2>
                         </div>
@@ -190,7 +190,7 @@
     <script>
         new WOW().init();
     </script>
-    <script src="js/main.js"></script>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
